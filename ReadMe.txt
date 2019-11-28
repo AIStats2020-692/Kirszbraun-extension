@@ -1,7 +1,6 @@
-The extra data for the paper Regression via Kirszbraun Extension with Applications to
-Imitation Learning organized as follows:
+The supplementary matterial for the paper "Regression via Kirszbraun Extension" organized as follows:
 
-1. python code: The implementation of the algorithm in pyhon, with the additional matlab functions neede. the functions are called from within the python code
+1. python code: The implementation of the algorithm in pyhon.
 
 2. Matlab functions: The matlab fucntion which we generated the data with.
 
