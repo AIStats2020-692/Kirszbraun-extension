@@ -6,7 +6,7 @@ The supplementary matterial for the paper "Regression via Kirszbraun Extension" 
 
 3. figures: Extra figures of the 20 first test points included, which visualise the supremecy of the MWU algorithm over competing method.
 
-4. data: all the data we generated for this problem for further exploration. 
+4. data: All the data we generated for this problem for further exploration. 
 
 5. Appendix
 
