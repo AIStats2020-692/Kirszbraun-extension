@@ -1,4 +1,4 @@
-The folder consist the MWU algorithm implementation.
+The folder consists the MWU algorithm implementation.
 The files are as follows:
 
 1. MWU algorithm.py : the python implementation
